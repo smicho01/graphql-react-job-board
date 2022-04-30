@@ -1,0 +1,32 @@
+[
+  {
+    "id": "rJKAbDd_z",
+    "companyId": "HJRa-DOuG",
+    "title": "Frontend Developer",
+    "description": "We are looking for a Frontend Developer familiar with React."
+  },
+  {
+    "id": "SJRAZDu_z",
+    "companyId": "HJRa-DOuG",
+    "title": "Backend Developer",
+    "description": "We are looking for a Backend Developer familiar with Node.js and Express."
+  },
+  {
+    "id": "rkz1GwOOM",
+    "companyId": "SJV0-wdOM",
+    "title": "Full-Stack Developer",
+    "description": "We are looking for a Full-Stack Developer familiar with Node.js, Express, and React."
+  },
+  {
+    "id": "kukububu20",
+    "companyId": "SJV0-wdOM",
+    "title": "Full-Stack Pet Lover",
+    "description": "Must be only for a cat person, deal with it"
+  },
+  {
+    "id": "kuku2090210",
+    "companyId": "KHG_72SAs",
+    "title": "Sznampeczek DevOps Master",
+    "description": "Need to pet Sznampeczek 24/7"
+  }
+]
